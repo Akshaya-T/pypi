@@ -13,7 +13,7 @@ Make sure you have installed all of the following prerequisites on your developm
 git clone https://github.com/Akshaya-T/pypi.git
 ````
 
-This will clone the latest version of the tilt-demo repository to a tilt-demo folder.
+This will clone the latest version of the pypi repository to pypi folder.
 
 ````
 cd pypi
